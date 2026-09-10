@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+project.mdc
+
+# Local database
+db.sqlite3
+
+# Uploaded/generated media
+media/
+# Temporary testing files
+scratch_*.py
+test_env.py
+*.bak
