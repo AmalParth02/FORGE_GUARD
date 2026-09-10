@@ -1,0 +1,8 @@
+﻿Django>=4.2,<5.1
+djangorestframework>=3.14.0
+pillow>=9.5.0
+numpy>=1.24.0,<2.0.0
+opencv-python>=4.8.0
+paddlepaddle>=2.5.0
+paddleocr>=2.7.0
+PassportEye>=2.2.0
